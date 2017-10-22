@@ -1,2 +1,5 @@
 # timeCalc_by_grun1.com
-Thanks to http://www.grun1.com/utils/timeCalc.html
+
+Original at http://www.grun1.com/utils/timeCalc.html
+
+Copied to github after grun1.com started throwing 503 errors.
